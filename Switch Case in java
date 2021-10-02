@@ -1,0 +1,26 @@
+
+public class SwitchCase {
+
+   public static void main(String[] args) {
+   
+       int day = 3;
+       if(day ==1) {
+         System.out.printIn("Sunday");
+         }else if (day ==2;) {
+          System.out.printIn("Monday");
+           }else if (day ==3;) {
+          System.out.printIn("Tuesday");
+           }else if (day ==4;) {
+          System.out.printIn("Wednesday");
+           }else if (day ==5;) {
+          System.out.printIn("Thursday");
+           }else if (day ==6;) {
+          System.out.printIn("Friday");
+           }else if (day ==7;) {
+          System.out.printIn("Saturday");
+          
+         }
+         
+       }
+         
+   }  
